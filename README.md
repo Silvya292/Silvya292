@@ -1,4 +1,4 @@
-## Hello there! I'm Silvia =D
+## Hello there! I'm Silvia
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZbjQzNhFmGwxxHTHQVfTLQSvFfTlvrzzFFKKjsKhLHvQCrsKScQQJDhVGGdVrFlDKRHSB)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-rold%C3%A1n-flores-5986b7211/)
@@ -24,7 +24,7 @@ I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwareli
 
 ## 🚀 My Github Stats:
 
-|![Silvya Github Stats](https://github-readme-stats.vercel.app/api?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Silvya292 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
+|![Silvya292 Github Stats](https://github-readme-stats.vercel.app/api?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Silvya292 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
 |---|---|
 
 <br>
