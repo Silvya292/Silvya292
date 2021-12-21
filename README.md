@@ -1,4 +1,4 @@
-## Hello there! I'm Silvia
+## Hello there! I'm Silvia 👋
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZbjQzNhFmGwxxHTHQVfTLQSvFfTlvrzzFFKKjsKhLHvQCrsKScQQJDhVGGdVrFlDKRHSB)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-rold%C3%A1n-flores-5986b7211/)
