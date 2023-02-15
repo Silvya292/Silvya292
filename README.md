@@ -8,6 +8,8 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021.
 
+<br>
+
 ## 🛠 Technologies, tools and languages
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
