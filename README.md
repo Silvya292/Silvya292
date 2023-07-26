@@ -31,7 +31,7 @@ I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwareli
 ## 🛠 My OS
 
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-  [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows/windows-11)
+  [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows)
   
 <br>
 
