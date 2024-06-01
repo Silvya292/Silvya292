@@ -9,7 +9,7 @@ I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [Un
 
 I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021.
 
-Currently working as Intern Product Developer at [Audiense](https://es.audiense.com/).
+Currently working as Product Developer at [Audiense](https://es.audiense.com/).
 
 <br>
 
