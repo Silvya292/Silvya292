@@ -5,11 +5,11 @@
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/silviarf292)
 
 
-I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
+I'm from Córdoba, Spain. I'm studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
 
-I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021.
+I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021.
 
-Currently working as Product Developer at [Audiense](https://es.audiense.com/).
+I currently work as a Product Developer at [Audiense](https://es.audiense.com/).
 
 <br>
 
@@ -35,11 +35,4 @@ Currently working as Product Developer at [Audiense](https://es.audiense.com/).
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows)
   
-<br>
-
-## 🚀 My Github Stats:
-
-|![Silvya292 Github Stats](https://github-readme-stats.vercel.app/api?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Silvya292 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvya292&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
-|---|---|
-
 <br>
