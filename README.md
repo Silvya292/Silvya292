@@ -5,7 +5,7 @@
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/silviarf292)
 
 
-I'm from Córdoba, Spain. I'm studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
+I'm from Córdoba, Spain. I have studied Computer Engineering at the [University of Córdoba](http://www.uco.es/).
 
 I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021.
 
@@ -13,26 +13,35 @@ I currently work as a Product Developer at [Audiense](https://es.audiense.com/).
 
 <br>
 
-## 🛠 Technologies, tools and languages
-  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+## 🛠 Languages
+  [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)](https://https://www.javascript.com)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=TypeScript&logoColor=white)](https://https://www.typescript.com)
-  [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
-  [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]()
-  <br>
-  [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
-  [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://https://www.javascript.com)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://https://www.typescript.com)
+  [![Shellscript](https://img.shields.io/badge/Shellscript-4E9A06?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
+  [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)]()
+  [![Scala](https://img.shields.io/badge/scala-DC322F?logo=scala&logoColor=white&style=for-the-badge)]()  
+  
+<br>
+
+## 🛠 Technologies and tools
+
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
+  [![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)]()
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+  [![OpenTelemetry](https://img.shields.io/badge/otel-4E5EE4?logo=opentelemetry&logoColor=white&style=for-the-badge)]()
+  [![VS Code](https://img.shields.io/badge/vscode-2490D5?style=for-the-badge&logo=v&logoColor=white)](https://code.visualstudio.com/)
+  [![WebStorm](https://img.shields.io/badge/webstorm-166BFF?logo=webstorm&logoColor=white&style=for-the-badge)]()
+  [![IDEA](https://img.shields.io/badge/idea-7D00FF?logo=intellijidea&logoColor=white&style=for-the-badge)]()
 
 <br>
 
-## 🛠 My OS
+## 🛠 Operating Systems
 
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-  [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows)
+  [![MacOS](https://img.shields.io/badge/macos-4B5562?style=for-the-badge&logo=macos&logoColor=white)](https://www.docker.com)
   
 <br>
